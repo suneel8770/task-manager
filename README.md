@@ -100,8 +100,6 @@ MySQL is used as the database for storing users, tasks, teams, comments, and att
 4. Run the Spring Boot application.
 5. Test APIs using Postman.
 
-Project Submission Branch
-
 ## Author
 
 Suneel Soni
